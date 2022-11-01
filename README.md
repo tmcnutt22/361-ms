@@ -1,6 +1,6 @@
 # 361-ms
 
-## Exercise Calculator for Microservices Project
+## Exercise Calorie Calculator for Microservices Project
 
 This Java / Spring micro service server takes a get request from the client and returns a calculated value if the exercise was found
 or -1 in the event the exercise was not found.
