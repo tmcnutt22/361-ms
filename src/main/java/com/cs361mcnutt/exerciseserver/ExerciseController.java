@@ -5,11 +5,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.io.FileNotFoundException;
-import java.util.HashMap;
-import java.io.File;
-import java.util.Scanner;
-
 @RestController
 public class ExerciseController {
 
